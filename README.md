@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <a href="https://www.python.org/download/releases/3.0/">
     <img src="https://img.shields.io/badge/python-3+-brightgreen.svg?style=popout" alt='python'>
   </a>
