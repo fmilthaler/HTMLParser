@@ -1,4 +1,4 @@
-from htmlparser.htmlparser import HTMLParser
+from htmlparser import HTMLParser
 import pandas
 
 # Here we scrap a page from Wikipedia, parse it for tables, and convert the first table found into a `pandas.DataFrame`.
